@@ -6,6 +6,17 @@ nav {
     background-color: #49013a;
 }
 
+body {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+main {
+    flex-grow: 1;
+}
+
+
 .card {
     max-width: 100%;
 }
@@ -66,7 +77,10 @@ nav {
 
 
 footer {
-    background-color: #49013a; 
+    position: absolute;
+    background-color: #49013a;
+    bottom: 0;
+    width: 100%; 
     color: #fff;
     padding: 20px 0;
     text-align: center;
