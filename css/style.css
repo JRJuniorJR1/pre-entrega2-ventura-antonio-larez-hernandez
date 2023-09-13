@@ -236,3 +236,17 @@ input[type="tel"] {
     font-size: 20px;
     color: #49013a;
 }
+
+/* politicas privacidad */
+
+.politicas-privacidad h2 {
+    font-size: 25px;
+    font-style:italic;
+    color: #49013a;
+}
+
+.politicas-privacidad p,li {
+    margin-top: 15px;
+    font-size: 20px;
+    color: #49013a;
+}
