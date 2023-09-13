@@ -190,3 +190,32 @@ input[type="tel"] {
     border-radius: 3px;
     cursor: pointer;
 }
+
+/* terminos condiciones */
+
+.terminos-condiciones ol {
+    list-style: none;
+
+}
+
+.terminos-condiciones h2 {
+    font-size: 25px;
+    font-style:italic;
+    color: #49013a;
+}
+
+.terminos-condiciones p {
+    font-size: 20px;
+    color: #49013a;
+}
+
+/* logo pie pag - terminos y condiciones- polit devo- politica priv*/
+
+.logo-redondo-pie {
+    width: 200px;
+    display: flex;
+    margin: 0 auto;
+
+}
+
+/* conocenos */
