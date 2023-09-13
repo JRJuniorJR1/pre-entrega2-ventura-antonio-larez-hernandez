@@ -218,4 +218,19 @@ input[type="tel"] {
 
 }
 
-/* conocenos */
+/* politica devolucion*/
+
+.politica-devolucion ul,ol {
+    list-style: none;
+
+}
+
+.politica-devolucion h2 {
+    font-size: 25px;
+    font-style:italic;
+    color: #49013a;
+}
+
+.politica-devolucion p,li {
+    font-size: 20px;
+    color: #49013a;
