@@ -232,5 +232,7 @@ input[type="tel"] {
 }
 
 .politica-devolucion p,li {
+    margin-top: 15px;
     font-size: 20px;
     color: #49013a;
+}
