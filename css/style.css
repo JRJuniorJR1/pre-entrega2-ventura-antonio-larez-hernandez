@@ -277,3 +277,27 @@ input[type="tel"] {
     font-size: 20px;
     color: #49013a;
 }
+
+/* Pagina producto */
+
+.product-details {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    padding: 20px;
+    max-width: 400px;
+}
+
+.product-image img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+}
+
+@media (min-width: 418px) {
+    .product-details {
+        max-width: 100%;
+    }
+}
+
