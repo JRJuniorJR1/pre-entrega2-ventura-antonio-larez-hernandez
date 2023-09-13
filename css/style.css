@@ -292,7 +292,7 @@ input[type="tel"] {
 .product-image img {
     max-width: 100%;
     height: auto;
-    display: flex;
+    display: block;
 }
 
 @media (min-width: 418px) {
