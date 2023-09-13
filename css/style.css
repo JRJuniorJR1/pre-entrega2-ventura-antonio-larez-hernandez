@@ -99,6 +99,33 @@ footer a:hover {
     text-decoration: underline;
 }
 
+@media (min-width: 512px) {
+    .col-md-4.text-center {
+    text-align: center;
+    }
+    .list-unstyled.text-center li {
+    text-align: center;
+    }
+}
+
+@media (min-width: 1024px) {
+    .col-md-4.text-center {
+    text-align: center;
+    }
+    .list-unstyled.text-center li {
+    text-align: center;
+    }
+}
+
+@media (min-width: 1600px) {
+    .col-md-4.text-center {
+    text-align: center;
+    }
+    .list-unstyled.text-center li {
+    text-align: center;
+    }
+}
+
 .bi {
     font-size: 1.5rem;
     margin-left: 20px;
